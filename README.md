@@ -21,12 +21,14 @@ The dataset (`cali_avocados.csv`) contains **annual agricultural production data
 - **Price P/U**: Price per unit received by farmers (per ton)
 - **Value**: Total market value of the harvest (Production × Price)
 
-### Dataset Scope
-- **Geography**: California's major avocado-producing counties (San Diego, Ventura, Santa Barbara, Riverside, Monterey, San Luis Obispo, San Bernardino)
-- **Time Period**: Multiple years of annual observations
+### Dataset Scope & Size
+- **Total Records**: 420 rows × 11 columns
+- **Time Period**: 1980 to 2020 (41 years of data)
+- **Geographic Coverage**: 27 California counties (from major producers like San Diego and Ventura to smaller producers in Fresno, Kern, Santa Cruz, and others)
 - **Granularity**: Annual county-level agricultural data
 - **Data Type**: Production data directly from farms (not retail/consumer market data)
 - **Key Metrics**: Acres harvested, yield, production volume, farm prices, and total value
+- **Data Source**: Agricultural census records
 
 ---
 
